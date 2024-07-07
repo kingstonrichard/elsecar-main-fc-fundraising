@@ -1,0 +1,16 @@
+body{
+    height: 100dvh;
+    overflow: hidden;
+    text-align: center;
+}
+
+.thermometer {
+    height: 75%;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
